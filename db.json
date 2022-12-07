@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "username": "Thanh Bình",
+      "email": "binhvtph18459@fpt.edu.vn",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "username": "binhvtph18459",
+      "email": "vuthanhbinh582001@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Product D",
+      "price": "500",
+      "quantity": "3",
+      "id": 1,
+      "desc": "The spelling mistakes in the text had been highlighted in green"
+    },
+    {
+      "name": "Product C",
+      "price": "500",
+      "quantity": "5",
+      "id": 2,
+      "desc": "The text is finished, but the pictures will have to be pasted in later"
+    },
+    {
+      "name": "Product M",
+      "price": "124",
+      "quantity": "2",
+      "id": 3,
+      "desc": "At this point in the speech, the minister departed from his prepared text"
+    },
+    {
+      "name": "Product D",
+      "price": "500",
+      "quantity": "3",
+      "id": 4,
+      "desc": "At this point in the speech, the minister departed from his prepared text"
+    },
+    {
+      "name": "Product L",
+      "price": "1234",
+      "desc": "At this point in the speech, the minister departed from his prepared text",
+      "id": 5
+    }
+  ],
+  "carts": [
+    {
+      "name": "Product L",
+      "price": "1234",
+      "desc": "At this point in the speech, the minister departed from his prepared text",
+      "id": 1
+    }
+  ]
+}
